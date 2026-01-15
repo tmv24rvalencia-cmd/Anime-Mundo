@@ -7,10 +7,11 @@ Este proyecto es un sitio web personal que combina un **portafolio visual de ani
 ## 📁 Estructura de Archivos
 
 <p align="center">
-  <img src="img.png" alt="Estructura de Archivos" width="700" />
+  <img src="img/img.png" alt="Estructura de Archivos" width="700" />
 </p>
 
-> ✅ Ahora son **4 páginas HTML principales**, organizadas por propósito.
+> ✅ **Estructura 100% fiel a tu proyecto actual**.  
+> 🔹 Todas las rutas y nombres coinciden con lo que ves en tu editor.
 
 ---
 
@@ -89,17 +90,19 @@ Cada género en el menú lleva directamente a `categorias.html` con el filtro ap
 - ✅ Menú desplegable de géneros integrado en la navegación.
 - ✅ Diseño **colorido pero profesional**, inspirado en estética anime.
 - ✅ Totalmente **responsive** (móvil + escritorio).
-- ✅ Fácil de mantener: los datos pueden centralizarse en `animes.json`.
+- ✅ Fácil de mantener: los datos pueden centralizarse en `data/animes.json`.
+- ✅ Archivos CSS separados por página para mejor organización.
 
 ---
 
 ## 🚀 Próximos Pasos (Opcional)
 
-- Añadir imágenes de portada para cada anime.
+- Añadir imágenes de portada para cada anime (en `img/img-anime/`).
 - Implementar sistema de “favoritos” guardados localmente.
 - Conectar con MyAnimeList o AniList API.
 - Agregar modo oscuro/claro.
+- Optimizar rendimiento con lazy loading de imágenes.
 
 ---
 
-> 💡 Este diseño equilibra **emoción y funcionalidad**: celebra tu amor por el anime mientras ofrece una experiencia de usuario intuitiva y moderna.
+> 💡 Este diseño equilibra **emoción y funcionalidad**: celebra tu amor por el anime mientras ofrece una experiencia de usuario intuitiva, moderna y memorable.
