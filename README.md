@@ -7,18 +7,31 @@ Este proyecto es un sitio web personal para mostrar un catálogo organizado de a
 ## 📁 Estructura de Archivos
 
 anime-mundo/
+
 │
+
 ├── index.html → Página de inicio
+
 ├── anime.html → Página principal de Anime (con buscador y filtros)
+
 ├── contacto.html → Página de contacto
+
 │
+
 ├── css/
+
 │ └── style.css → Estilos globales (diseño tipo AnimeFLV / Amazon)
+
 │
+
 ├── js/
+
 │ └── script.js → Funcionalidad: búsqueda, filtros, modales de descripción
+
 │
+
 └── data/ → (opcional)
+
 └── animes.json → Base de datos en JSON con metadatos de cada anime
 
 > ✅ Solo 3 páginas HTML principales. Toda la navegación por categorías se gestiona desde el menú desplegable y la página `anime.html`.
